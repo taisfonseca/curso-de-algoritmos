@@ -1,4 +1,4 @@
-# 📘 Curso de Algoritmos — Curso em Vídeo  
+# Curso de Algoritmos — Curso em Vídeo  
 **Professor Gustavo Guanabara**
 
 Repositório com **exercícios e práticas** desenvolvidos durante o **Curso de Algoritmos** do *Curso em Vídeo*.
@@ -7,7 +7,7 @@ O foco deste repositório é **fortalecer a lógica de programação**, base ess
 
 ---
 
-## 📌 Conteúdos Abordados
+## Conteúdos
 
 - Entrada e saída de dados  
 - Variáveis e tipos de dados  
@@ -21,11 +21,11 @@ O foco deste repositório é **fortalecer a lógica de programação**, base ess
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas
 
 - **Visualg**  
 - **Portugol**
 
 ---
 
-📌 *Este repositório tem fins educacionais e faz parte do processo de aprendizado em lógica de programação.*
+*Este repositório tem fins educacionais e faz parte do processo de aprendizado em lógica de programação.*
